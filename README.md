@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to VexlsGG's GitHub Profile!
 
-<!--
-**VexlsGG/vexlsgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?label=YouTube%20Subscribers&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/VexlsGG?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/VexlsGG?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=VexlsGG&color=blue)
 
-Here are some ideas to get you started:
+## GitHub Stats
+![VexlsGG's GitHub stats](https://github-readme-stats.vercel.app/api?username=VexlsGG&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VexlsGG&layout=compact&theme=radical)
+
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VexlsGG&theme=radical)
+
