@@ -1,33 +1,62 @@
-# Hi, I'm VexlsGG 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VexlsGG.VexlsGG" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Fellow+Human!+👋;+I'm+VexlsGG!;" />
+</h1>
+
+<h3 align="center">A passionate software developer and content creator from the galaxy far, far away! 🌌</h3>
+
+<br/>
 
 <div align="center">
-  <h2 style="display: inline;">I am a...</h2>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🎮+CONTENT+CREATOR;💻+DEVELOPER;🎨+DESIGNER;&center=true&width=500&height=50&font=Fira+Code&size=30" alt="Typing SVG">
+ 
+ 🔭 I’m currently working on **a cool calculator that’s out of this galaxy!** 🧮✨
+
+ 🌱 I’m currently learning **Python 🐍 and improving my skills in HTML/CSS 🌐💡**
+
+ 💬 Ask me about **JavaScript, React, Firebase... or anything [here](https://github.com/VexlsGG/VexlsGG/issues)**
+
+ ⚡ Fun fact **Did you know? Coding can be like magic—sometimes, it feels like you’re conjuring spells with every line you write! 🧙‍♂️✨**
+
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.youtube.com/@VexlsGG" style="text-decoration: none;">
+    <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCASXY-WnRn7_tFLd9rprB8g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
   </a>
+  <a href="https://github.com/VexlsGG" style="text-decoration: none;">
+    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/VexlsGG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/VexlsGG" style="text-decoration: none;">
+    <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VexlsGG?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</p>
+
+<br/>
+
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,figma,vscode,github" />
 </div>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCASXY-WnRn7_tFLd9rprB8g?label=YouTube%20Subscribers&style=social)](https://www.youtube.com/@VexlsGG)
-[![GitHub Followers](https://img.shields.io/github/followers/VexlsGG?style=social)](https://github.com/VexlsGG)
-[![GitHub Stars](https://img.shields.io/github/stars/VexlsGG?style=social)](https://github.com/VexlsGG)
+<br/>
 
-## 📊 GitHub Stats
-
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br>
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=VexlsGG&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexlsGG&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VexlsGG&theme=radical" alt="GitHub Streak" height="180px" />
-  
+  <img alt="snake eating my contributions" src="https://github.com/VexlsGG/VexlsGG/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
-## 🛠️ Languages and Tools
+<br/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VexlsGG&theme=radical&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=VexlsGG&show_icons=true&theme=radical&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexlsGG&layout=compact&theme=radical&border_radius=10" alt="top langs" />
 </div>
