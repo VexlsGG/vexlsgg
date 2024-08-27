@@ -1,16 +1,21 @@
-# Welcome to VexlsGG's GitHub Profile!
+# Hi, I'm VexlsGG 👋
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCASXY-WnRn7_tFLd9rprB8g?label=YouTube%20Subscribers&style=social)
-![GitHub Followers](https://img.shields.io/github/followers/VexlsGG?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/VexlsGG?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=VexlsGG&color=blue)
+🎮 Twitch Streamer | 💻 Developer | 🎨 Designer
 
-## GitHub Stats
-![VexlsGG's GitHub stats](https://github-readme-stats.vercel.app/api?username=VexlsGG&show_icons=true&theme=radical)
+I create engaging content around gaming, web development, and design. I'm passionate about crafting interactive experiences and building cool projects.
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VexlsGG&layout=compact&theme=radical)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCASXY-WnRn7_tFLd9rprB8g?label=YouTube%20Subscribers&style=social)](https://www.youtube.com/@VexlsGG)
+[![GitHub Followers](https://img.shields.io/github/followers/VexlsGG?style=social)](https://github.com/VexlsGG)
+[![GitHub Stars](https://img.shields.io/github/stars/VexlsGG?style=social)](https://github.com/VexlsGG)
+[![Profile Views](https://komarev.com/ghpvc/?username=VexlsGG&color=blue)](https://github.com/VexlsGG)
 
-## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VexlsGG&theme=radical)
+## 📊 GitHub Stats
 
+| ![VexlsGG's GitHub stats](https://github-readme-stats.vercel.app/api?username=VexlsGG&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VexlsGG&layout=compact&theme=radical) |
+| --- | --- |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VexlsGG&theme=radical) | ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=VexlsGG&theme=radical) |
+
+## 🌐 Connect with Me
+
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/c/YOUR_CHANNEL_NAME)
+[![Twitch](https://img.shields.io/badge/-Twitch-6441a5?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/VexlsGG)
