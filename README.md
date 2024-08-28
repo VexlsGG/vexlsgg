@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning **Python 🐍 and improving my skills in HTML/CSS 🌐💡**
 
- 💬 Ask me about **JavaScript, React, Firebase... or anything [here](https://github.com/VexlsGG/VexlsGG/issues)**
+ 💬 Ask me about **JavaScript, HTML, Star Wars... or anything [here](https://github.com/VexlsGG/VexlsGG/issues)**
 
  ⚡ Fun fact **Did you know? Coding can be like magic—sometimes, it feels like you’re conjuring spells with every line you write! 🧙‍♂️✨**
 
