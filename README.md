@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a cool calculator that’s out of this galaxy!** 🧮✨
 
- 🌱 I’m currently learning **Python 🐍 and improving my skills in HTML/CSS 🌐💡**
+ 🌱 I’m currently learning **Java Programming 🤖and improving my skills in HTML/CSS 🌐💡**
 
  💬 Ask me about **JavaScript, HTML, Star Wars... or anything [here](https://github.com/VexlsGG/VexlsGG/issues)**
 
