@@ -1,13 +1,19 @@
+<!-- Visitor Count -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VexlsGG.VexlsGG" />
 
+<!-- Typing Text -->
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Fellow+Human!+👋;+I'm+VexlsGG!;" />
 </h1>
 
+<!-- Top Quick About Me -->
 <h3 align="center">A passionate software developer and content creator from the galaxy far, far away! 🌌</h3>
 
 <br/>
 
+<!-- About Me Full -->
+<details open>
+    <summary align="center"><h2>😎 About Me!</h2></summary>
 <div align="center">
  
  🔭 I’m currently working on **a cool calculator that’s out of this galaxy!** 🧮✨
@@ -19,9 +25,11 @@
  ⚡ Fun fact **Did you know? Coding can be like magic—sometimes, it feels like you’re conjuring spells with every line you write! 🧙‍♂️✨**
 
 </div>
+</details>
 
 <br/>
 
+<!-- Active Statistics (subs, follows, etc) -->
 <p align="center">
   <a href="https://www.youtube.com/@VexlsGG" style="text-decoration: none;">
     <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCASXY-WnRn7_tFLd9rprB8g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
@@ -36,23 +44,31 @@
 
 <br/>
 
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<!-- Languages and Tools I use -->
+<details>
+    <summary align="center"><h2 align="center">⚒️ Languages & Tools ⚒️</h2></summary>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,figma,vscode,github" />
 </div>
 
 <br/>
+</details>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<!-- Contributions -->
+<details>
+    <summary align="center"><h2>🐍 My Contributions 🐍</h2></summary>
 <br>
 <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/VexlsGG/VexlsGG/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
+</details>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- Stats -->
+<details>
+    <summary align="center"><h2>⚡ Stats ⚡</h2></summary>
 <br>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=VexlsGG&theme=radical&border_radius=10" alt="streak stats"/>
@@ -60,7 +76,12 @@
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VexlsGG&layout=compact&theme=radical&border_radius=10" alt="top langs" />
 </div>
+</details>
 
+<!-- YouTube -->
+<details open>
+    <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
+    
 <!-- BEGIN YOUTUBE-CARDS -->
 [![100% LEGIT FNCS PICKAXE!!](https://ytcards.demolab.com/?id=2MefWSQ6phs&title=100%25+LEGIT+FNCS+PICKAXE%21%21&lang=en&timestamp=1723816832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "100% LEGIT FNCS PICKAXE!!")](https://www.youtube.com/watch?v=2MefWSQ6phs)
 [![Lucid Dreams 🌧 (Fortnite Montage) | Client: @prospct](https://ytcards.demolab.com/?id=28tU9K3bF0k&title=Lucid+Dreams+%F0%9F%8C%A7+%28Fortnite+Montage%29+%7C+Client%3A+%40prospct&lang=en&timestamp=1722619805&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lucid Dreams 🌧 (Fortnite Montage) | Client: @prospct")](https://www.youtube.com/watch?v=28tU9K3bF0k)
@@ -69,3 +90,4 @@
 [![Crown Grinding with @DunecOmander #crosshairx](https://ytcards.demolab.com/?id=mk2xvXIOCMM&title=Crown+Grinding+with+%40DunecOmander+%23crosshairx&lang=en&timestamp=1721733759&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Crown Grinding with @DunecOmander #crosshairx")](https://www.youtube.com/watch?v=mk2xvXIOCMM)
 [![Crown Grinding with @DunecOmander #crosshairx](https://ytcards.demolab.com/?id=Vane3K564dc&title=Crown+Grinding+with+%40DunecOmander+%23crosshairx&lang=en&timestamp=1721729304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Crown Grinding with @DunecOmander #crosshairx")](https://www.youtube.com/watch?v=Vane3K564dc)
 <!-- END YOUTUBE-CARDS -->
+</details>
