@@ -49,7 +49,7 @@
     <summary align="center"><h2 align="center">⚒️ Languages & Tools ⚒️</h2></summary>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,figma,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,figma,vscode,github,photoshop,aftereffects" />
 </div>
 
 <br/>
