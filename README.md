@@ -46,10 +46,10 @@
 
 <!-- Languages and Tools I use -->
 <details>
-    <summary align="center"><h2 align="center">⚒️ Languages & Tools ⚒️</h2></summary>
+    <summary align="center"><h2 align="center">⚒️ Languages, Tools, & Operating Systems ⚒️</h2></summary>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,figma,vscode,github,photoshop,aftereffects" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,vue,figma,vscode,github,ps,ae,pr,blender,replit,unreal,windows,apple"> />
 </div>
 
 <br/>
