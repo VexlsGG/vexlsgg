@@ -66,7 +66,7 @@
     <summary align="center"><h2>🐍 My Contributions 🐍</h2></summary>
 <br>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/VexlsGG/VexlsGG/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/vexlsgg/vexlsgg/blob/output/github-snake-dark.svg" />
 </div>
 
 <br/>
