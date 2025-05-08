@@ -50,7 +50,7 @@
 <br/>
 <div align="center">
     <h2><bold><i>Languages</i></bold></h2>
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,vue,electron,react,python,nodejs,npm"></img>
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,vue,electron,react,python,nodejs,npm,swift"></img>
     <h2><bold><i>Tools</i></bold></h2>
     <img src="https://skillicons.dev/icons?i=figma,vscode,github,ps,ae,pr,blender,replit,unreal,gmail,notion"></img>
     <h2><bold><i>Operating Systems</i></bold></h2>
