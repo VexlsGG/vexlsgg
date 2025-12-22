@@ -89,11 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Clash Royale | STICKERS ARE ON!](https://ytcards.demolab.com/?id=hwLvzzkHjo8&title=Clash+Royale+%7C+STICKERS+ARE+ON%21&lang=en&timestamp=1766437639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Clash Royale | STICKERS ARE ON!")](https://www.youtube.com/watch?v=hwLvzzkHjo8)
 [![CLAIM THIS NOW! #fortnite](https://ytcards.demolab.com/?id=BLiGTxLW_Cg&title=CLAIM+THIS+NOW%21+%23fortnite&lang=en&timestamp=1766168711&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLAIM THIS NOW! #fortnite")](https://www.youtube.com/watch?v=BLiGTxLW_Cg)
 [![Clash Royale | STICKERS ARE ON!](https://ytcards.demolab.com/?id=Z48OYuOoKzA&title=Clash+Royale+%7C+STICKERS+ARE+ON%21&lang=en&timestamp=1766146272&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Clash Royale | STICKERS ARE ON!")](https://www.youtube.com/watch?v=Z48OYuOoKzA)
 [![Goofy Ah Log](https://ytcards.demolab.com/?id=9L0XXKtBJZ8&title=Goofy+Ah+Log&lang=en&timestamp=1765593776&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Goofy Ah Log")](https://www.youtube.com/shorts/9L0XXKtBJZ8)
 [![Clash Royale | STICKERS ARE ON!](https://ytcards.demolab.com/?id=iSc8-vrOyH4&title=Clash+Royale+%7C+STICKERS+ARE+ON%21&lang=en&timestamp=1765537241&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Clash Royale | STICKERS ARE ON!")](https://www.youtube.com/watch?v=iSc8-vrOyH4)
 [![Fortnite Grinding | DONATIONS ARE ON!](https://ytcards.demolab.com/?id=IL4g0z4u7RQ&title=Fortnite+Grinding+%7C+DONATIONS+ARE+ON%21&lang=en&timestamp=1765316325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fortnite Grinding | DONATIONS ARE ON!")](https://www.youtube.com/watch?v=IL4g0z4u7RQ)
-[![Best Deck in Clash Royale](https://ytcards.demolab.com/?id=0ewkfPcZ48A&title=Best+Deck+in+Clash+Royale&lang=en&timestamp=1764930526&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Best Deck in Clash Royale")](https://www.youtube.com/watch?v=0ewkfPcZ48A)
 <!-- END YOUTUBE-CARDS -->
 </details>
