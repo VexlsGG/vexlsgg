@@ -89,11 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Valorant Grinding](https://ytcards.demolab.com/?id=nfvObFHaz2g&title=Valorant+Grinding&lang=en&timestamp=1767302958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Valorant Grinding")](https://www.youtube.com/watch?v=nfvObFHaz2g)
 [![First Val stream on YT!](https://ytcards.demolab.com/?id=C33drs-FUh0&title=First+Val+stream+on+YT%21&lang=en&timestamp=1767140941&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "First Val stream on YT!")](https://www.youtube.com/watch?v=C33drs-FUh0)
 [![FORTNITE RANKED ASMR | 4K 360 FPS 🖱️⌨️😴](https://ytcards.demolab.com/?id=ml3lR3Ski5E&title=FORTNITE+RANKED+ASMR+%7C+4K+360+FPS+%F0%9F%96%B1%EF%B8%8F%E2%8C%A8%EF%B8%8F%F0%9F%98%B4&lang=en&timestamp=1767128455&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FORTNITE RANKED ASMR | 4K 360 FPS 🖱️⌨️😴")](https://www.youtube.com/watch?v=ml3lR3Ski5E)
 [![valorant is better than fort](https://ytcards.demolab.com/?id=3eeTHDrL804&title=valorant+is+better+than+fort&lang=en&timestamp=1767125897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "valorant is better than fort")](https://www.youtube.com/watch?v=3eeTHDrL804)
 [![valorant is better than fort](https://ytcards.demolab.com/?id=hwLvzzkHjo8&title=valorant+is+better+than+fort&lang=en&timestamp=1767095196&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "valorant is better than fort")](https://www.youtube.com/watch?v=hwLvzzkHjo8)
 [![Ragebaited with 5 words #valorant](https://ytcards.demolab.com/?id=yVU3unevmcs&title=Ragebaited+with+5+words+%23valorant&lang=en&timestamp=1766886424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ragebaited with 5 words #valorant")](https://www.youtube.com/shorts/yVU3unevmcs)
-[![CLAIM THIS NOW! #fortnite](https://ytcards.demolab.com/?id=BLiGTxLW_Cg&title=CLAIM+THIS+NOW%21+%23fortnite&lang=en&timestamp=1766168711&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLAIM THIS NOW! #fortnite")](https://www.youtube.com/watch?v=BLiGTxLW_Cg)
 <!-- END YOUTUBE-CARDS -->
 </details>
