@@ -89,11 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Valorant Grind](https://ytcards.demolab.com/?id=wNv2rwZMoWo&title=Valorant+Grind&lang=en&timestamp=1767648737&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Valorant Grind")](https://www.youtube.com/watch?v=wNv2rwZMoWo)
 [![Perfectly Synced | 1 month progression #valorant](https://ytcards.demolab.com/?id=wstM-jO12lA&title=Perfectly+Synced+%7C+1+month+progression+%23valorant&lang=en&timestamp=1767405292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Perfectly Synced | 1 month progression #valorant")](https://www.youtube.com/shorts/wstM-jO12lA)
 [![Valorant Grind](https://ytcards.demolab.com/?id=FLKRARTFOiE&title=Valorant+Grind&lang=en&timestamp=1767400349&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Valorant Grind")](https://www.youtube.com/watch?v=FLKRARTFOiE)
 [![Valorant Grinding](https://ytcards.demolab.com/?id=nfvObFHaz2g&title=Valorant+Grinding&lang=en&timestamp=1767313882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Valorant Grinding")](https://www.youtube.com/watch?v=nfvObFHaz2g)
 [![First Val stream on YT!](https://ytcards.demolab.com/?id=C33drs-FUh0&title=First+Val+stream+on+YT%21&lang=en&timestamp=1767140941&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "First Val stream on YT!")](https://www.youtube.com/watch?v=C33drs-FUh0)
 [![FORTNITE RANKED ASMR | 4K 360 FPS 🖱️⌨️😴](https://ytcards.demolab.com/?id=ml3lR3Ski5E&title=FORTNITE+RANKED+ASMR+%7C+4K+360+FPS+%F0%9F%96%B1%EF%B8%8F%E2%8C%A8%EF%B8%8F%F0%9F%98%B4&lang=en&timestamp=1767128455&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FORTNITE RANKED ASMR | 4K 360 FPS 🖱️⌨️😴")](https://www.youtube.com/watch?v=ml3lR3Ski5E)
-[![valorant is better than fort](https://ytcards.demolab.com/?id=3eeTHDrL804&title=valorant+is+better+than+fort&lang=en&timestamp=1767125897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "valorant is better than fort")](https://www.youtube.com/watch?v=3eeTHDrL804)
 <!-- END YOUTUBE-CARDS -->
 </details>
