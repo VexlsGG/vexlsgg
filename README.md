@@ -89,7 +89,7 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Valorant Grind](https://ytcards.demolab.com/?id=wNv2rwZMoWo&title=Valorant+Grind&lang=en&timestamp=1767648737&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Valorant Grind")](https://www.youtube.com/watch?v=wNv2rwZMoWo)
+[![Valorant Grind](https://ytcards.demolab.com/?id=wNv2rwZMoWo&title=Valorant+Grind&lang=en&timestamp=1767700496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Valorant Grind")](https://www.youtube.com/watch?v=wNv2rwZMoWo)
 [![Perfectly Synced | 1 month progression #valorant](https://ytcards.demolab.com/?id=wstM-jO12lA&title=Perfectly+Synced+%7C+1+month+progression+%23valorant&lang=en&timestamp=1767405292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Perfectly Synced | 1 month progression #valorant")](https://www.youtube.com/shorts/wstM-jO12lA)
 [![Valorant Grind](https://ytcards.demolab.com/?id=FLKRARTFOiE&title=Valorant+Grind&lang=en&timestamp=1767400349&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Valorant Grind")](https://www.youtube.com/watch?v=FLKRARTFOiE)
 [![Valorant Grinding](https://ytcards.demolab.com/?id=nfvObFHaz2g&title=Valorant+Grinding&lang=en&timestamp=1767313882&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Valorant Grinding")](https://www.youtube.com/watch?v=nfvObFHaz2g)
