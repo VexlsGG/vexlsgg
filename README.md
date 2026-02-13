@@ -89,6 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![grinding val](https://ytcards.demolab.com/?id=22nm3IeHbOQ&title=grinding+val&lang=en&timestamp=1770942093&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "grinding val")](https://www.youtube.com/watch?v=22nm3IeHbOQ)
+[![fortnie?](https://ytcards.demolab.com/?id=0NZwPCUTT9A&title=fortnie%3F&lang=en&timestamp=1769904675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "fortnie?")](https://www.youtube.com/watch?v=0NZwPCUTT9A)
+[![IM BACK ON THE VALORANT RANKED GRIND!](https://ytcards.demolab.com/?id=Yhzfs4L3n3A&title=IM+BACK+ON+THE+VALORANT+RANKED+GRIND%21&lang=en&timestamp=1769819157&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "IM BACK ON THE VALORANT RANKED GRIND!")](https://www.youtube.com/watch?v=Yhzfs4L3n3A)
+[![HOW DID JYNXZI FIND THIS SECRET EMOTE IN CLASH ROYALE?! #jynxzi #free](https://ytcards.demolab.com/?id=s-KjCrAJo_A&title=HOW+DID+JYNXZI+FIND+THIS+SECRET+EMOTE+IN+CLASH+ROYALE%3F%21+%23jynxzi+%23free&lang=en&timestamp=1769204165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HOW DID JYNXZI FIND THIS SECRET EMOTE IN CLASH ROYALE?! #jynxzi #free")](https://www.youtube.com/shorts/s-KjCrAJo_A)
+[![RUNNING IT BACK WITH DOODEEB ON VAL](https://ytcards.demolab.com/?id=3iR1_3GgZ4c&title=RUNNING+IT+BACK+WITH+DOODEEB+ON+VAL&lang=en&timestamp=1768954475&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "RUNNING IT BACK WITH DOODEEB ON VAL")](https://www.youtube.com/watch?v=3iR1_3GgZ4c)
+[![PLAYING FORTNITE WITH VIEWERS](https://ytcards.demolab.com/?id=SFW1GEx4IC4&title=PLAYING+FORTNITE+WITH+VIEWERS&lang=en&timestamp=1768868991&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PLAYING FORTNITE WITH VIEWERS")](https://www.youtube.com/watch?v=SFW1GEx4IC4)
 <!-- END YOUTUBE-CARDS -->
 </details>
