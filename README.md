@@ -89,6 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![VAL GRIND](https://ytcards.demolab.com/?id=hMQsjc1a7NQ&title=VAL+GRIND&lang=en&timestamp=1771538008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VAL GRIND")](https://www.youtube.com/watch?v=hMQsjc1a7NQ)
+[![FORTNITE XP GRIND THEN MAYBE VAL](https://ytcards.demolab.com/?id=LoYJZrDEqqw&title=FORTNITE+XP+GRIND+THEN+MAYBE+VAL&lang=en&timestamp=1771374542&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FORTNITE XP GRIND THEN MAYBE VAL")](https://www.youtube.com/watch?v=LoYJZrDEqqw)
+[![Funniest Toxic AI Ever!](https://ytcards.demolab.com/?id=AZWnov4X0FU&title=Funniest+Toxic+AI+Ever%21&lang=en&timestamp=1771347616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Funniest Toxic AI Ever!")](https://www.youtube.com/watch?v=AZWnov4X0FU)
+[![grinding val](https://ytcards.demolab.com/?id=xyz3bJV-6rQ&title=grinding+val&lang=en&timestamp=1771063519&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "grinding val")](https://www.youtube.com/watch?v=xyz3bJV-6rQ)
+[![grinding val](https://ytcards.demolab.com/?id=22nm3IeHbOQ&title=grinding+val&lang=en&timestamp=1770942093&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "grinding val")](https://www.youtube.com/watch?v=22nm3IeHbOQ)
+[![fortnie?](https://ytcards.demolab.com/?id=0NZwPCUTT9A&title=fortnie%3F&lang=en&timestamp=1769904675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "fortnie?")](https://www.youtube.com/watch?v=0NZwPCUTT9A)
 <!-- END YOUTUBE-CARDS -->
 </details>
