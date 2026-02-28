@@ -89,7 +89,7 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-[![grinding val](https://ytcards.demolab.com/?id=R3O4KbHTAbI&title=grinding+val&lang=en&timestamp=1772227870&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "grinding val")](https://www.youtube.com/watch?v=R3O4KbHTAbI)
+[![grinding val](https://ytcards.demolab.com/?id=R3O4KbHTAbI&title=grinding+val&lang=en&timestamp=1772239015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "grinding val")](https://www.youtube.com/watch?v=R3O4KbHTAbI)
 [![VAL GRIND](https://ytcards.demolab.com/?id=bDixVkgBnGU&title=VAL+GRIND&lang=en&timestamp=1771671058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VAL GRIND")](https://www.youtube.com/watch?v=bDixVkgBnGU)
 [![VAL GRIND](https://ytcards.demolab.com/?id=hMQsjc1a7NQ&title=VAL+GRIND&lang=en&timestamp=1771538008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VAL GRIND")](https://www.youtube.com/watch?v=hMQsjc1a7NQ)
 [![FORTNITE XP GRIND THEN MAYBE VAL](https://ytcards.demolab.com/?id=LoYJZrDEqqw&title=FORTNITE+XP+GRIND+THEN+MAYBE+VAL&lang=en&timestamp=1771374542&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FORTNITE XP GRIND THEN MAYBE VAL")](https://www.youtube.com/watch?v=LoYJZrDEqqw)
