@@ -89,6 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![twitch.tv/VEXLSGG | Are you proud @DooDeeBMC ??](https://ytcards.demolab.com/?id=Jg1LElPr8pc&title=twitch.tv%2FVEXLSGG+%7C+Are+you+proud+%40DooDeeBMC+%3F%3F&lang=en&timestamp=1772757082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "twitch.tv/VEXLSGG | Are you proud @DooDeeBMC ??")](https://www.youtube.com/shorts/Jg1LElPr8pc)
+[![BIRTHDAY COUNTDOWN 🎉🎈🥳](https://ytcards.demolab.com/?id=GMBR8MoNjPs&title=BIRTHDAY+COUNTDOWN+%F0%9F%8E%89%F0%9F%8E%88%F0%9F%A5%B3&lang=en&timestamp=1772756112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BIRTHDAY COUNTDOWN 🎉🎈🥳")](https://www.youtube.com/watch?v=GMBR8MoNjPs)
+[![BIRTHDAY COUNTDOWN 🎉🎈🥳](https://ytcards.demolab.com/?id=tXcJunIl67E&title=BIRTHDAY+COUNTDOWN+%F0%9F%8E%89%F0%9F%8E%88%F0%9F%A5%B3&lang=en&timestamp=1772584288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BIRTHDAY COUNTDOWN 🎉🎈🥳")](https://www.youtube.com/watch?v=tXcJunIl67E)
+[![BIRTHDAY COUNTDOWN 🎉🎈🥳](https://ytcards.demolab.com/?id=l5FIX02Ap9s&title=BIRTHDAY+COUNTDOWN+%F0%9F%8E%89%F0%9F%8E%88%F0%9F%A5%B3&lang=en&timestamp=1772497824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BIRTHDAY COUNTDOWN 🎉🎈🥳")](https://www.youtube.com/watch?v=l5FIX02Ap9s)
+[![first MC game in 3 years... | DAILY STREAMS!](https://ytcards.demolab.com/?id=jdLvuKKiSdM&title=first+MC+game+in+3+years...+%7C+DAILY+STREAMS%21&lang=en&timestamp=1772474468&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "first MC game in 3 years... | DAILY STREAMS!")](https://www.youtube.com/shorts/jdLvuKKiSdM)
+[![MINECRAFT AFTER A LONG TIME](https://ytcards.demolab.com/?id=FF_peenO12Q&title=MINECRAFT+AFTER+A+LONG+TIME&lang=en&timestamp=1772411504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MINECRAFT AFTER A LONG TIME")](https://www.youtube.com/watch?v=FF_peenO12Q)
 <!-- END YOUTUBE-CARDS -->
 </details>
