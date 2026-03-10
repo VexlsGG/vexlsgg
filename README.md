@@ -89,11 +89,6 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-[![playing bedwars with w ppl](https://ytcards.demolab.com/?id=ZJE7-eFDF00&title=playing+bedwars+with+w+ppl&lang=en&timestamp=1773099667&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "playing bedwars with w ppl")](https://www.youtube.com/watch?v=ZJE7-eFDF00)
-[![BIRTHDAY TMR 🎉🎈⭐](https://ytcards.demolab.com/?id=JyqrvT0bFJ0&title=BIRTHDAY+TMR+%F0%9F%8E%89%F0%9F%8E%88%E2%AD%90&lang=en&timestamp=1772929740&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BIRTHDAY TMR 🎉🎈⭐")](https://www.youtube.com/watch?v=JyqrvT0bFJ0)
-[![BIRTHDAY COUNTDOWN 🎉🎈🥳](https://ytcards.demolab.com/?id=Kba-_FW1uRU&title=BIRTHDAY+COUNTDOWN+%F0%9F%8E%89%F0%9F%8E%88%F0%9F%A5%B3&lang=en&timestamp=1772843714&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BIRTHDAY COUNTDOWN 🎉🎈🥳")](https://www.youtube.com/watch?v=Kba-_FW1uRU)
-[![Make ANY Mic Sound Professional (OBS + Windows Settings)](https://ytcards.demolab.com/?id=1noK8mBWUpQ&title=Make+ANY+Mic+Sound+Professional+%28OBS+%2B+Windows+Settings%29&lang=en&timestamp=1772809204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Make ANY Mic Sound Professional (OBS + Windows Settings)")](https://www.youtube.com/watch?v=1noK8mBWUpQ)
-[![twitch.tv/VEXLSGG | Are you proud @DooDeeBMC ??](https://ytcards.demolab.com/?id=Jg1LElPr8pc&title=twitch.tv%2FVEXLSGG+%7C+Are+you+proud+%40DooDeeBMC+%3F%3F&lang=en&timestamp=1772757082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "twitch.tv/VEXLSGG | Are you proud @DooDeeBMC ??")](https://www.youtube.com/shorts/Jg1LElPr8pc)
-[![BIRTHDAY COUNTDOWN 🎉🎈🥳](https://ytcards.demolab.com/?id=GMBR8MoNjPs&title=BIRTHDAY+COUNTDOWN+%F0%9F%8E%89%F0%9F%8E%88%F0%9F%A5%B3&lang=en&timestamp=1772756112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BIRTHDAY COUNTDOWN 🎉🎈🥳")](https://www.youtube.com/watch?v=GMBR8MoNjPs)
+
 <!-- END YOUTUBE-CARDS -->
 </details>
