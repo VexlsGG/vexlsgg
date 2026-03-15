@@ -89,11 +89,6 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-[![idk](https://ytcards.demolab.com/?id=sYA_oMQ-Kbo&title=idk&lang=en&timestamp=1773530040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "idk")](https://www.youtube.com/watch?v=sYA_oMQ-Kbo)
-[![FINALLY DONE WITH FORTNITE](https://ytcards.demolab.com/?id=HfWlnjmSK1s&title=FINALLY+DONE+WITH+FORTNITE&lang=en&timestamp=1773444853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FINALLY DONE WITH FORTNITE")](https://www.youtube.com/watch?v=HfWlnjmSK1s)
-[![hoping to finish the BP today in FN](https://ytcards.demolab.com/?id=n-YngccCisU&title=hoping+to+finish+the+BP+today+in+FN&lang=en&timestamp=1773358565&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "hoping to finish the BP today in FN")](https://www.youtube.com/watch?v=n-YngccCisU)
-[![[UPDATED] All 100+codes vault codes in GO GOATED!!](https://ytcards.demolab.com/?id=FGZVOFL2sNk&title=%5BUPDATED%5D+All+100%2Bcodes+vault+codes+in+GO+GOATED%21%21&lang=en&timestamp=1773346835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[UPDATED] All 100+codes vault codes in GO GOATED!!")](https://www.youtube.com/shorts/FGZVOFL2sNk)
-[![IDK](https://ytcards.demolab.com/?id=qPZcWMiW0Fk&title=IDK&lang=en&timestamp=1773184573&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "IDK")](https://www.youtube.com/watch?v=qPZcWMiW0Fk)
-[![playing bedwars with w ppl](https://ytcards.demolab.com/?id=ZJE7-eFDF00&title=playing+bedwars+with+w+ppl&lang=en&timestamp=1773099667&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "playing bedwars with w ppl")](https://www.youtube.com/watch?v=ZJE7-eFDF00)
+
 <!-- END YOUTUBE-CARDS -->
 </details>
