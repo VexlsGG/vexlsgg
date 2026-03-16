@@ -89,7 +89,7 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-[![DAY 2 OF VEX WEEK - VALORANT](https://ytcards.demolab.com/?id=7DefVy05T3Y&title=DAY+2+OF+VEX+WEEK+-+VALORANT&lang=en&timestamp=1773693006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DAY 2 OF VEX WEEK - VALORANT")](https://www.youtube.com/watch?v=7DefVy05T3Y)
+[![DAY 2 OF VEX WEEK - VALORANT](https://ytcards.demolab.com/?id=7DefVy05T3Y&title=DAY+2+OF+VEX+WEEK+-+VALORANT&lang=en&timestamp=1773693340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DAY 2 OF VEX WEEK - VALORANT")](https://www.youtube.com/watch?v=7DefVy05T3Y)
 [![CLASH STREAM AFTER A LONG TIME](https://ytcards.demolab.com/?id=rrwqzczbbY8&title=CLASH+STREAM+AFTER+A+LONG+TIME&lang=en&timestamp=1773617398&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLASH STREAM AFTER A LONG TIME")](https://www.youtube.com/watch?v=rrwqzczbbY8)
 [![idk](https://ytcards.demolab.com/?id=sYA_oMQ-Kbo&title=idk&lang=en&timestamp=1773530040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "idk")](https://www.youtube.com/watch?v=sYA_oMQ-Kbo)
 [![FINALLY DONE WITH FORTNITE](https://ytcards.demolab.com/?id=HfWlnjmSK1s&title=FINALLY+DONE+WITH+FORTNITE&lang=en&timestamp=1773444853&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FINALLY DONE WITH FORTNITE")](https://www.youtube.com/watch?v=HfWlnjmSK1s)
