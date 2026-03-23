@@ -89,6 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![VALORANT IS FULL OF CHEATERS SMH](https://ytcards.demolab.com/?id=IJZOGOINiH0&title=VALORANT+IS+FULL+OF+CHEATERS+SMH&lang=en&timestamp=1774222162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VALORANT IS FULL OF CHEATERS SMH")](https://www.youtube.com/watch?v=IJZOGOINiH0)
+[![LEARNING NEW AGENT IN VAL](https://ytcards.demolab.com/?id=gpgT1o-VRSw&title=LEARNING+NEW+AGENT+IN+VAL&lang=en&timestamp=1774136342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LEARNING NEW AGENT IN VAL")](https://www.youtube.com/watch?v=gpgT1o-VRSw)
+[![DAY 5 OF VEX WEEK - VALORANT](https://ytcards.demolab.com/?id=bAvWS5zWX_w&title=DAY+5+OF+VEX+WEEK+-+VALORANT&lang=en&timestamp=1774049530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DAY 5 OF VEX WEEK - VALORANT")](https://www.youtube.com/watch?v=bAvWS5zWX_w)
+[![DAY 4 OF VEX WEEK - VAL WITH W DUO](https://ytcards.demolab.com/?id=AWh-dVkPomU&title=DAY+4+OF+VEX+WEEK+-+VAL+WITH+W+DUO&lang=en&timestamp=1773962859&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DAY 4 OF VEX WEEK - VAL WITH W DUO")](https://www.youtube.com/watch?v=AWh-dVkPomU)
+[![DAY 3 OF VEX WEEK - MINECRAFT](https://ytcards.demolab.com/?id=JM1Gx_pCP3Y&title=DAY+3+OF+VEX+WEEK+-+MINECRAFT&lang=en&timestamp=1773789763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DAY 3 OF VEX WEEK - MINECRAFT")](https://www.youtube.com/watch?v=JM1Gx_pCP3Y)
+[![LIVE DAILY ON TWITCH | TTV/VEXLSGG](https://ytcards.demolab.com/?id=Hzf39Tlp8ZI&title=LIVE+DAILY+ON+TWITCH+%7C+TTV%2FVEXLSGG&lang=en&timestamp=1773772516&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LIVE DAILY ON TWITCH | TTV/VEXLSGG")](https://www.youtube.com/shorts/Hzf39Tlp8ZI)
 <!-- END YOUTUBE-CARDS -->
 </details>
