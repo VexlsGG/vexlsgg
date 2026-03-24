@@ -89,11 +89,6 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-[![OG STREAM WITH @prospct AND @aj7matrixlive](https://ytcards.demolab.com/?id=3RwL1ZE4jew&title=OG+STREAM+WITH+%40prospct+AND+%40aj7matrixlive&lang=en&timestamp=1774308204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OG STREAM WITH @prospct AND @aj7matrixlive")](https://www.youtube.com/watch?v=3RwL1ZE4jew)
-[![am I cheating? | #vexlsgg on #Twitch](https://ytcards.demolab.com/?id=LatK084Jx-k&title=am+I+cheating%3F+%7C+%23vexlsgg+on+%23Twitch&lang=en&timestamp=1774291742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "am I cheating? | #vexlsgg on #Twitch")](https://www.youtube.com/shorts/LatK084Jx-k)
-[![VALORANT IS FULL OF CHEATERS SMH](https://ytcards.demolab.com/?id=IJZOGOINiH0&title=VALORANT+IS+FULL+OF+CHEATERS+SMH&lang=en&timestamp=1774222162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VALORANT IS FULL OF CHEATERS SMH")](https://www.youtube.com/watch?v=IJZOGOINiH0)
-[![LEARNING NEW AGENT IN VAL](https://ytcards.demolab.com/?id=gpgT1o-VRSw&title=LEARNING+NEW+AGENT+IN+VAL&lang=en&timestamp=1774136342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LEARNING NEW AGENT IN VAL")](https://www.youtube.com/watch?v=gpgT1o-VRSw)
-[![DAY 5 OF VEX WEEK - VALORANT](https://ytcards.demolab.com/?id=bAvWS5zWX_w&title=DAY+5+OF+VEX+WEEK+-+VALORANT&lang=en&timestamp=1774049530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DAY 5 OF VEX WEEK - VALORANT")](https://www.youtube.com/watch?v=bAvWS5zWX_w)
-[![DAY 4 OF VEX WEEK - VAL WITH W DUO](https://ytcards.demolab.com/?id=AWh-dVkPomU&title=DAY+4+OF+VEX+WEEK+-+VAL+WITH+W+DUO&lang=en&timestamp=1773962859&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DAY 4 OF VEX WEEK - VAL WITH W DUO")](https://www.youtube.com/watch?v=AWh-dVkPomU)
+
 <!-- END YOUTUBE-CARDS -->
 </details>
