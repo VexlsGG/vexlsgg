@@ -89,11 +89,6 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Crazy Sage Outplay #shorts](https://ytcards.demolab.com/?id=aWYG1r0u6wQ&title=Crazy+Sage+Outplay+%23shorts&lang=en&timestamp=1774905621&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Crazy Sage Outplay #shorts")](https://www.youtube.com/shorts/aWYG1r0u6wQ)
-[![FORTNITE GRIND WITH A SPECIAL GUEST](https://ytcards.demolab.com/?id=vLiocbyngqQ&title=FORTNITE+GRIND+WITH+A+SPECIAL+GUEST&lang=en&timestamp=1774566675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FORTNITE GRIND WITH A SPECIAL GUEST")](https://www.youtube.com/watch?v=vLiocbyngqQ)
-[![VALORANT IS FULL OF CHEATERS SMH](https://ytcards.demolab.com/?id=XWkhpnCDncI&title=VALORANT+IS+FULL+OF+CHEATERS+SMH&lang=en&timestamp=1774394778&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VALORANT IS FULL OF CHEATERS SMH")](https://www.youtube.com/watch?v=XWkhpnCDncI)
-[![FINISH IT OUT. | #vexlsgg on #Twitch](https://ytcards.demolab.com/?id=aWHjwRSMBsY&title=FINISH+IT+OUT.+%7C+%23vexlsgg+on+%23Twitch&lang=en&timestamp=1774394641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FINISH IT OUT. | #vexlsgg on #Twitch")](https://www.youtube.com/shorts/aWHjwRSMBsY)
-[![OG STREAM WITH @prospct AND @aj7matrixlive](https://ytcards.demolab.com/?id=3RwL1ZE4jew&title=OG+STREAM+WITH+%40prospct+AND+%40aj7matrixlive&lang=en&timestamp=1774308204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OG STREAM WITH @prospct AND @aj7matrixlive")](https://www.youtube.com/watch?v=3RwL1ZE4jew)
-[![am I cheating? | #vexlsgg on #Twitch](https://ytcards.demolab.com/?id=LatK084Jx-k&title=am+I+cheating%3F+%7C+%23vexlsgg+on+%23Twitch&lang=en&timestamp=1774291742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "am I cheating? | #vexlsgg on #Twitch")](https://www.youtube.com/shorts/LatK084Jx-k)
+
 <!-- END YOUTUBE-CARDS -->
 </details>
