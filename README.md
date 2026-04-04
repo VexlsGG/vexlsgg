@@ -89,11 +89,6 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-[![ogs will remember 🥹 #fortnite #gaming #vexlsgg #og](https://ytcards.demolab.com/?id=yYY-T6_5Jag&title=ogs+will+remember+%F0%9F%A5%B9+%23fortnite+%23gaming+%23vexlsgg+%23og&lang=en&timestamp=1775185056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ogs will remember 🥹 #fortnite #gaming #vexlsgg #og")](https://www.youtube.com/shorts/yYY-T6_5Jag)
-[![After 2 years...](https://ytcards.demolab.com/?id=TCWihsjVULE&title=After+2+years...&lang=en&timestamp=1774987212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "After 2 years...")](https://www.youtube.com/watch?v=TCWihsjVULE)
-[![Crazy Sage Outplay #shorts](https://ytcards.demolab.com/?id=aWYG1r0u6wQ&title=Crazy+Sage+Outplay+%23shorts&lang=en&timestamp=1774905621&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Crazy Sage Outplay #shorts")](https://www.youtube.com/shorts/aWYG1r0u6wQ)
-[![FORTNITE GRIND WITH A SPECIAL GUEST](https://ytcards.demolab.com/?id=vLiocbyngqQ&title=FORTNITE+GRIND+WITH+A+SPECIAL+GUEST&lang=en&timestamp=1774566675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FORTNITE GRIND WITH A SPECIAL GUEST")](https://www.youtube.com/watch?v=vLiocbyngqQ)
-[![VALORANT IS FULL OF CHEATERS SMH](https://ytcards.demolab.com/?id=XWkhpnCDncI&title=VALORANT+IS+FULL+OF+CHEATERS+SMH&lang=en&timestamp=1774394778&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VALORANT IS FULL OF CHEATERS SMH")](https://www.youtube.com/watch?v=XWkhpnCDncI)
-[![FINISH IT OUT. | #vexlsgg on #Twitch](https://ytcards.demolab.com/?id=aWHjwRSMBsY&title=FINISH+IT+OUT.+%7C+%23vexlsgg+on+%23Twitch&lang=en&timestamp=1774394641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FINISH IT OUT. | #vexlsgg on #Twitch")](https://www.youtube.com/shorts/aWHjwRSMBsY)
+
 <!-- END YOUTUBE-CARDS -->
 </details>
