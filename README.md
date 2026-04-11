@@ -89,11 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
+[![just a vibe](https://ytcards.demolab.com/?id=Hu3OvdZR9Rs&title=just+a+vibe&lang=en&timestamp=1775939577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "just a vibe")](https://www.youtube.com/watch?v=Hu3OvdZR9Rs)
 [![Best PC upgrade?](https://ytcards.demolab.com/?id=L1_BkKzF08M&title=Best+PC+upgrade%3F&lang=en&timestamp=1775853008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Best PC upgrade?")](https://www.youtube.com/watch?v=L1_BkKzF08M)
 [![NEW FORTNITE GAMEMODE!](https://ytcards.demolab.com/?id=3Kodla2BdhU&title=NEW+FORTNITE+GAMEMODE%21&lang=en&timestamp=1775778971&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NEW FORTNITE GAMEMODE!")](https://www.youtube.com/watch?v=3Kodla2BdhU)
 [![MINECRAFT STREAM!!](https://ytcards.demolab.com/?id=19bm41WarWA&title=MINECRAFT+STREAM%21%21&lang=en&timestamp=1775601985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MINECRAFT STREAM!!")](https://www.youtube.com/watch?v=19bm41WarWA)
 [![CLIP WORTH A SUB? | #vexlsgg on #Twitch](https://ytcards.demolab.com/?id=oDWSbt062Cg&title=CLIP+WORTH+A+SUB%3F+%7C+%23vexlsgg+on+%23Twitch&lang=en&timestamp=1775519004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLIP WORTH A SUB? | #vexlsgg on #Twitch")](https://www.youtube.com/shorts/oDWSbt062Cg)
 [![FORTNITE GRIND](https://ytcards.demolab.com/?id=aqST69Nx-Mc&title=FORTNITE+GRIND&lang=en&timestamp=1775518613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FORTNITE GRIND")](https://www.youtube.com/watch?v=aqST69Nx-Mc)
-[![ogs will remember 🥹 #fortnite #gaming #vexlsgg #og](https://ytcards.demolab.com/?id=yYY-T6_5Jag&title=ogs+will+remember+%F0%9F%A5%B9+%23fortnite+%23gaming+%23vexlsgg+%23og&lang=en&timestamp=1775185056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ogs will remember 🥹 #fortnite #gaming #vexlsgg #og")](https://www.youtube.com/shorts/yYY-T6_5Jag)
 <!-- END YOUTUBE-CARDS -->
 </details>
