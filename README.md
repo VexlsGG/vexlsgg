@@ -89,7 +89,7 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-[![just a vibe](https://ytcards.demolab.com/?id=Hu3OvdZR9Rs&title=just+a+vibe&lang=en&timestamp=1775939577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "just a vibe")](https://www.youtube.com/watch?v=Hu3OvdZR9Rs)
+[![just a vibe](https://ytcards.demolab.com/?id=Hu3OvdZR9Rs&title=just+a+vibe&lang=en&timestamp=1775950609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "just a vibe")](https://www.youtube.com/watch?v=Hu3OvdZR9Rs)
 [![Best PC upgrade?](https://ytcards.demolab.com/?id=L1_BkKzF08M&title=Best+PC+upgrade%3F&lang=en&timestamp=1775853008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Best PC upgrade?")](https://www.youtube.com/watch?v=L1_BkKzF08M)
 [![NEW FORTNITE GAMEMODE!](https://ytcards.demolab.com/?id=3Kodla2BdhU&title=NEW+FORTNITE+GAMEMODE%21&lang=en&timestamp=1775778971&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NEW FORTNITE GAMEMODE!")](https://www.youtube.com/watch?v=3Kodla2BdhU)
 [![MINECRAFT STREAM!!](https://ytcards.demolab.com/?id=19bm41WarWA&title=MINECRAFT+STREAM%21%21&lang=en&timestamp=1775601985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MINECRAFT STREAM!!")](https://www.youtube.com/watch?v=19bm41WarWA)
