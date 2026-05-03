@@ -89,6 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![1 YEAR ANNIVERSARY ON TWITCH!!!!](https://ytcards.demolab.com/?id=9ZBjR_7m-mA&title=1+YEAR+ANNIVERSARY+ON+TWITCH%21%21%21%21&lang=en&timestamp=1777593160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "1 YEAR ANNIVERSARY ON TWITCH!!!!")](https://www.youtube.com/watch?v=9ZBjR_7m-mA)
+[![RAINBOW SIX IS BETTER THAN FORTNITE](https://ytcards.demolab.com/?id=J56zb97a8AE&title=RAINBOW+SIX+IS+BETTER+THAN+FORTNITE&lang=en&timestamp=1777419274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "RAINBOW SIX IS BETTER THAN FORTNITE")](https://www.youtube.com/watch?v=J56zb97a8AE)
+[![reload fortnite ranked grind](https://ytcards.demolab.com/?id=Qk5c8mLXDsc&title=reload+fortnite+ranked+grind&lang=en&timestamp=1777333839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "reload fortnite ranked grind")](https://www.youtube.com/watch?v=Qk5c8mLXDsc)
+[![VALORANT NEON GRIND | #ExitLag #VALORANT #VEXLSGG #live #livestream](https://ytcards.demolab.com/?id=rTNM48njJZE&title=VALORANT+NEON+GRIND+%7C+%23ExitLag+%23VALORANT+%23VEXLSGG+%23live+%23livestream&lang=en&timestamp=1777283835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VALORANT NEON GRIND | #ExitLag #VALORANT #VEXLSGG #live #livestream")](https://www.youtube.com/watch?v=rTNM48njJZE)
+[![FORTNITE CUSTOMS TODAY!!! #OutplayedPartner | #ExitLag #fortnite #VEXLSGG #live #livestream](https://ytcards.demolab.com/?id=ssYWfU3yPEI&title=FORTNITE+CUSTOMS+TODAY%21%21%21+%23OutplayedPartner+%7C+%23ExitLag+%23fortnite+%23VEXLSGG+%23live+%23livestream&lang=en&timestamp=1777160357&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FORTNITE CUSTOMS TODAY!!! #OutplayedPartner | #ExitLag #fortnite #VEXLSGG #live #livestream")](https://www.youtube.com/watch?v=ssYWfU3yPEI)
+[![VAL IS BETTER THAN R6](https://ytcards.demolab.com/?id=Et941YiYadI&title=VAL+IS+BETTER+THAN+R6&lang=en&timestamp=1777073639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VAL IS BETTER THAN R6")](https://www.youtube.com/watch?v=Et941YiYadI)
 <!-- END YOUTUBE-CARDS -->
 </details>
