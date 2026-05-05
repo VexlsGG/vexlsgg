@@ -89,7 +89,7 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-[![R6 GRIND IS HERE!](https://ytcards.demolab.com/?id=3zwryHtQ7LY&title=R6+GRIND+IS+HERE%21&lang=en&timestamp=1778013262&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "R6 GRIND IS HERE!")](https://www.youtube.com/watch?v=3zwryHtQ7LY)
+[![VALO](https://ytcards.demolab.com/?id=3zwryHtQ7LY&title=VALO&lang=en&timestamp=1778013262&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VALO")](https://www.youtube.com/watch?v=3zwryHtQ7LY)
 [![NEW VALORANT RANKED MODE 👀](https://ytcards.demolab.com/?id=yQ_RlVhDNrg&title=NEW+VALORANT+RANKED+MODE+%F0%9F%91%80&lang=en&timestamp=1777850628&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NEW VALORANT RANKED MODE 👀")](https://www.youtube.com/watch?v=yQ_RlVhDNrg)
 [![MOST TOXIC MODERATOR EVER!](https://ytcards.demolab.com/?id=LiPmpG_zJ_M&title=MOST+TOXIC+MODERATOR+EVER%21&lang=en&timestamp=1777827624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MOST TOXIC MODERATOR EVER!")](https://www.youtube.com/watch?v=LiPmpG_zJ_M)
 [![1 YEAR ANNIVERSARY ON TWITCH!!!!](https://ytcards.demolab.com/?id=9ZBjR_7m-mA&title=1+YEAR+ANNIVERSARY+ON+TWITCH%21%21%21%21&lang=en&timestamp=1777593160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "1 YEAR ANNIVERSARY ON TWITCH!!!!")](https://www.youtube.com/watch?v=9ZBjR_7m-mA)
