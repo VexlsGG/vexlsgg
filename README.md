@@ -89,6 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![What is this Temu Royale 🥀😭💀 #gaming #clashroyale #temu #clashroyalememes](https://ytcards.demolab.com/?id=rgh29x88HNs&title=What+is+this+Temu+Royale+%F0%9F%A5%80%F0%9F%98%AD%F0%9F%92%80+%23gaming+%23clashroyale+%23temu+%23clashroyalememes&lang=en&timestamp=1778457722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What is this Temu Royale 🥀😭💀 #gaming #clashroyale #temu #clashroyalememes")](https://www.youtube.com/shorts/rgh29x88HNs)
+[![VALO](https://ytcards.demolab.com/?id=3zwryHtQ7LY&title=VALO&lang=en&timestamp=1778024657&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VALO")](https://www.youtube.com/watch?v=3zwryHtQ7LY)
+[![NEW VALORANT RANKED MODE 👀](https://ytcards.demolab.com/?id=yQ_RlVhDNrg&title=NEW+VALORANT+RANKED+MODE+%F0%9F%91%80&lang=en&timestamp=1777850628&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NEW VALORANT RANKED MODE 👀")](https://www.youtube.com/watch?v=yQ_RlVhDNrg)
+[![MOST TOXIC MODERATOR EVER!](https://ytcards.demolab.com/?id=LiPmpG_zJ_M&title=MOST+TOXIC+MODERATOR+EVER%21&lang=en&timestamp=1777827624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MOST TOXIC MODERATOR EVER!")](https://www.youtube.com/watch?v=LiPmpG_zJ_M)
+[![1 YEAR ANNIVERSARY ON TWITCH!!!!](https://ytcards.demolab.com/?id=9ZBjR_7m-mA&title=1+YEAR+ANNIVERSARY+ON+TWITCH%21%21%21%21&lang=en&timestamp=1777593160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "1 YEAR ANNIVERSARY ON TWITCH!!!!")](https://www.youtube.com/watch?v=9ZBjR_7m-mA)
+[![RAINBOW SIX IS BETTER THAN FORTNITE](https://ytcards.demolab.com/?id=J56zb97a8AE&title=RAINBOW+SIX+IS+BETTER+THAN+FORTNITE&lang=en&timestamp=1777419274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "RAINBOW SIX IS BETTER THAN FORTNITE")](https://www.youtube.com/watch?v=J56zb97a8AE)
 <!-- END YOUTUBE-CARDS -->
 </details>
