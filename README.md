@@ -89,6 +89,11 @@
     <summary align="center"><h2>🎥 YouTube Videos 🎥</h2></summary>
     
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![FORTNITE VERTICAL STREAM!](https://ytcards.demolab.com/?id=_g94scfi1J4&title=FORTNITE+VERTICAL+STREAM%21&lang=en&timestamp=1781362897&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FORTNITE VERTICAL STREAM!")](https://www.youtube.com/watch?v=_g94scfi1J4)
+[![Bro didn’t have a shockwave 😭 #fortnite #fortniteclips #gaming #fortniteshorts](https://ytcards.demolab.com/?id=5y5K-TUpqjc&title=Bro+didn%E2%80%99t+have+a+shockwave+%F0%9F%98%AD+%23fortnite+%23fortniteclips+%23gaming+%23fortniteshorts&lang=en&timestamp=1781313885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bro didn’t have a shockwave 😭 #fortnite #fortniteclips #gaming #fortniteshorts")](https://www.youtube.com/shorts/5y5K-TUpqjc)
+[![FORTNITE VERTICAL STREAM!](https://ytcards.demolab.com/?id=hsAFj5zuYDE&title=FORTNITE+VERTICAL+STREAM%21&lang=en&timestamp=1781050424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "FORTNITE VERTICAL STREAM!")](https://www.youtube.com/watch?v=hsAFj5zuYDE)
+[![Fortnite Live Event: POV Foundation](https://ytcards.demolab.com/?id=dvNnglQSPv4&title=Fortnite+Live+Event%3A+POV+Foundation&lang=en&timestamp=1780707570&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fortnite Live Event: POV Foundation")](https://www.youtube.com/watch?v=dvNnglQSPv4)
+[![which would you choose? #fortnite #trend #superman #dccomics](https://ytcards.demolab.com/?id=TAsVeeq41-M&title=which+would+you+choose%3F+%23fortnite+%23trend+%23superman+%23dccomics&lang=en&timestamp=1779727186&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "which would you choose? #fortnite #trend #superman #dccomics")](https://www.youtube.com/shorts/TAsVeeq41-M)
+[![tag that one bro who does this 😭 #fortnite #shorts #gaming](https://ytcards.demolab.com/?id=Cwotr7EBla4&title=tag+that+one+bro+who+does+this+%F0%9F%98%AD+%23fortnite+%23shorts+%23gaming&lang=en&timestamp=1779546747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "tag that one bro who does this 😭 #fortnite #shorts #gaming")](https://www.youtube.com/shorts/Cwotr7EBla4)
 <!-- END YOUTUBE-CARDS -->
 </details>
